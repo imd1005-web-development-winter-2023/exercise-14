@@ -1,6 +1,3 @@
-# exercise-14
-Exercise 14
-
 # Exercise 14 - Building a complicated card layout
 
 For this exercise, let's continue practicing using flex box and CSS. This time we're going to build card that advertises an activity that users could purchase. There is an image on one side and then the text for the card on the other side. This exercise requires a bit more advanced flex techniques, as well as some box shadows, rounded corners and object-fit for the image. 
